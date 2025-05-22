@@ -1,4 +1,5 @@
 Netflix Clone 🎬
+
 A fully responsive Netflix clone website built using only HTML and CSS.
 1. Homepage
 
