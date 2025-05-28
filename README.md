@@ -10,7 +10,3 @@ A fully responsive Netflix clone website built using only HTML and CSS.
 4. FAQ's Page
 
 5. Contact Section
- 
-🚀 Tech Stack
-HTML
-CSS
